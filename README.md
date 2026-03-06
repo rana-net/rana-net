@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Rana Roy | Network Engineer
 
-<!--
-**rana-net/rana-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network Engineer | Electronics & Telecommunication Engineer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌐 Working at Commtel Networks
+- 📡 Interested in Networking & Telecom
+- 💻 Learning Python for Network Automation
+- 📍 Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- TCP/IP
+- Routing & Switching
+- VLAN
+- STP
+- OSPF
+- EIGRP
+- NAT
+- ACL
+- MPLS
+- BGP
+
+## 📂 Projects
+- Cisco Networking Labs
+- VLAN Configuration
+- OSPF Routing
+- NAT & ACL Implementation
+
+## 📫 Connect With Me
+- LinkedIn:[(https://www.linkedin.com/in/rana-roy-744595321/)]## Hi there 👋
