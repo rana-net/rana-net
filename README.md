@@ -14,11 +14,12 @@ Network Engineer | Electronics & Telecommunication Engineer
 - VLAN
 - STP
 - OSPF
-- EIGRP
+- DNS
+- NTP
 - NAT
 - ACL
 - MPLS
-- BGP
+
 
 ## 📂 Projects
 - Cisco Networking Labs
