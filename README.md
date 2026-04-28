@@ -24,8 +24,7 @@ Network Engineer | Electronics & Telecommunication Engineer
 ## 📂 Projects
 - Cisco Networking Labs
 - VLAN Configuration
-- OSPF Routing
-- NAT & ACL Implementation
+- Network Automation
 
 ## 📫 Connect With Me
 - LinkedIn:[(https://www.linkedin.com/in/rana-roy-744595321/)]## Hi there 👋
