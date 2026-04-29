@@ -16,14 +16,14 @@ Network Engineer | Electronics & Telecommunication Engineer
 - OSPF
 - DNS
 - NTP
-- NAT
 - ACL
 - MPLS
+- Python
+- Linux
 
 
 ## 📂 Projects
 - Cisco Networking Labs
-- VLAN Configuration
 - Network Automation
 
 ## 📫 Connect With Me
