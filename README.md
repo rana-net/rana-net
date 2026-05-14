@@ -29,8 +29,8 @@ Software & Network Engineer focused on automation, backend systems, and infrastr
 - VLAN
 - STP
 - OSPF
-- DNS
-- ACL
+- BGP
+- IS-IS
 - Network Troubleshooting
 
 ### Areas of Interest
